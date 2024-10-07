@@ -1,0 +1,8 @@
+C:\code\ASPNET core\ASPNET 6 MVC CRUD\CSharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.exe.config
+C:\code\ASPNET core\ASPNET 6 MVC CRUD\CSharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.exe
+C:\code\ASPNET core\ASPNET 6 MVC CRUD\CSharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.pdb
+C:\code\ASPNET core\ASPNET 6 MVC CRUD\CSharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.csproj.AssemblyReference.cache
+C:\code\ASPNET core\ASPNET 6 MVC CRUD\CSharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.csproj.SuggestedBindingRedirects.cache
+C:\code\ASPNET core\ASPNET 6 MVC CRUD\CSharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.csproj.CoreCompileInputs.cache
+C:\code\ASPNET core\ASPNET 6 MVC CRUD\CSharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.exe
+C:\code\ASPNET core\ASPNET 6 MVC CRUD\CSharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.pdb
